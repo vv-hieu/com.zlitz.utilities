@@ -1,0 +1,14 @@
+{
+	"name": "com.zlitz.utilities",
+	"displayName": "Zlitz's Utilities",
+	"version": "1.0.0",
+	"unity": "2022.1",
+	"author": "Zlitz",
+	"description": "Zlitz's Utilities Package",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vv-hieu/com.zlitz.utilities.git"
+	}
+}
