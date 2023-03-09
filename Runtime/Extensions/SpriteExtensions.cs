@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Zlitz.Editors
+namespace Zlitz.Utilities
 {
     public static class SpriteExtensions
     {
